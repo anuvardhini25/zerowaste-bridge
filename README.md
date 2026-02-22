@@ -36,3 +36,5 @@ Version controlled with GitHub
 ### 🎯 Vision
 “Waste less, feed more —  
 Let kindness knock on every door.”
+
+Developed and maintained by Anuvardhini.
